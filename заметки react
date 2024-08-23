@@ -1,0 +1,5 @@
+создание реакт приложения
+npm create vite@latest
+
+запуск приложения
+npm run dev
